@@ -25,7 +25,7 @@ SECRET_KEY = 'w#7a0fs+2wzdu#f@gqtjsw)117g7xg7s)w66hrgf2p)d((c7lt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [elva.pythonanywhere.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
